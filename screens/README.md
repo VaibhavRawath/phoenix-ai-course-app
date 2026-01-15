@@ -1,1 +1,1 @@
-screenshots folder
+![Home](screens/home.jpg)
